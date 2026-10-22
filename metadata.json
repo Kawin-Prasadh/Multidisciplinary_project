@@ -1,0 +1,6 @@
+{
+  "name": "Rainwater Harvesting Feasibility Calculator",
+  "description": "Integrated Digital Planning Tool for Yield Estimation, Storage Sizing & Microbial Safety — Multidisciplinary Engineering Prototype (Review 1 • 30% Completion).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
